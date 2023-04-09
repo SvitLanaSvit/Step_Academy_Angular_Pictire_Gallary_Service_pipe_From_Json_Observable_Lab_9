@@ -1,0 +1,40 @@
+{
+  "pictures": [
+    {
+      "name": "Starry Night",
+      "author": "Vincent van Gogh",
+      "description": "A famous oil painting of the night sky with swirling stars and a glowing moon.",
+      "image": "https://www.vangoghgallery.com/img/starry_night_full.jpg",
+      "time_of_creation": "1889",
+      "dimensions": "73.7 cm × 92.1 cm",
+      "location": "Museum of Modern Art, New York City"
+    },
+    {
+      "name": "The Persistence of Memory",
+      "author": "Salvador Dali",
+      "description": "A surrealist painting of melting clocks and a barren landscape.",
+      "image": "https://www.reproduction-gallery.com/catalogue/uploads/1522662218_large-image_dali-persistence-of-memory-lg.jpg",
+      "time_of_creation": "1931",
+      "dimensions": "24 cm × 33 cm",
+      "location": "Museum of Modern Art, New York City"
+    },
+    {
+      "name": "Mona Lisa",
+      "author": "Leonardo da Vinci",
+      "description": "A portrait painting of a woman with a mysterious smile.",
+      "image": "https://cdn.pariscityvision.com/library/image/5449.jpg",
+      "time_of_creation": "1503–1519",
+      "dimensions": "77 cm × 53 cm",
+      "location": "Louvre Museum, Paris"
+    },
+    {
+      "name": "The Scream",
+      "author": "Edvard Munch",
+      "description": "A painting of a figure with an agonized expression against a blood-red sky.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg/330px-Edvard_Munch%2C_1893%2C_The_Scream%2C_oil%2C_tempera_and_pastel_on_cardboard%2C_91_x_73_cm%2C_National_Gallery_of_Norway.jpg",
+      "time_of_creation": "1893",
+      "dimensions": "91 cm × 73.5 cm",
+      "location": "National Gallery, Oslo"
+    }
+  ]
+}

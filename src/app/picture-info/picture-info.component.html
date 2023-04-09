@@ -1,0 +1,13 @@
+<div class="picture-list">
+  <div class="picture" *ngFor="let picture of pictures">
+    <img src={{picture.image}} alt={{picture.name}}>
+    <div class="picture-info">
+      <h2>{{picture.name}}</h2>
+      <p>{{picture.description}}</p>
+      <p>Author: {{picture.author}}</p>
+      <p>Time of creation:{{picture.time_of_creation}}</p>
+      <p>Dimensions: {{picture.dimensions}}</p>
+      <p>Location: {{picture.location}}</p>
+    </div>
+  </div>
+</div>
